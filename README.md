@@ -1,4 +1,4 @@
 <h1>App de lista de supermercado</h1>
 
-<video src='./README/video.mp4'></video>
+<img src='./README/img.gif'>
 Feito utilizando JavaScript Puro.
